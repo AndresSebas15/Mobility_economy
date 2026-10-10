@@ -3,7 +3,7 @@ Using Python, the bank's objective is to identify which cities to invest in rega
 
 **Datasets used** 
 
-- tomtom_traffic.csv : Datos sobre congestión vehicular y condiciones de tráfico en ciudades del mundo. Puedes descargarlo aquí.
-- oecd_city_economy.csv : Indicadores económicos y ambientales por ciudad, recopilados por la OECD (Organización para la Cooperación y el Desarrollo Económico).
+- tomtom_traffic.csv : Data on traffic congestion and traffic conditions in cities around the world. You can download it here.
+- oecd_city_economy.csv : Economic and environmental indicators by city, compiled by the OECD (Organisation for Economic Co-operation and Development).
 
 A clean, standardized foundation is created, ready for future analyses of how urban mobility can influence economic productivity.
